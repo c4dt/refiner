@@ -264,7 +264,7 @@ pycodestyle==2.8.0
 pycountry==22.3.5
 pycparser==2.21
 pycups==1.9.73
-pydantic==1.8.2
+pydantic==1.10.13
 pyDeprecate==0.3.2
 pyext==0.7
 pyflakes==2.4.0
