@@ -372,7 +372,7 @@ torchaudio==0.12.1
 torchmetrics==0.9.3
 torchvision==0.12.0
 tornado==6.2
-tqdm==4.64.0
+tqdm==4.66.3
 traitlets==5.2.1.post0
 -e git+https://github.com/huggingface/transformers.git@cd3e0211a6bbddee1067b55ab5d8eabd84edd68d#egg=transformers
 trio==0.22.0
