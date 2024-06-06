@@ -154,7 +154,7 @@ kaggle==1.5.12
 keras==2.11.0
 keyring==18.0.1
 kiwisolver==1.4.4
-langchain==0.0.118
+langchain==0.2.2
 langcodes==3.3.0
 language-selector==0.1
 launchpadlib==1.10.13
