@@ -106,7 +106,7 @@ google-resumable-media==2.3.3
 googleapis-common-protos==1.56.1
 googledrivedownloader==0.4
 greenlet==1.1.2
-grpcio==1.46.1
+grpcio==1.53.2
 gym==0.21.0
 h11==0.14.0
 h5py==3.7.0
